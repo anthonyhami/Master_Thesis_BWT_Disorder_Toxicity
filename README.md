@@ -9,7 +9,10 @@ This thesis aims to transfer the knowledge of the BWT from offline to online env
 This repository include the scripts for:
 
 - Data scrapping
-- Data pre processing
+- Data pre-processing
+  - General pre-processing
+  - NLP Based
+  - Bot Detection
 - Data analyses
   - EDA
   - Submission Based
