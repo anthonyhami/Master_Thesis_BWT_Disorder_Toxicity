@@ -11,5 +11,11 @@ This repository include the scripts for:
 - Data scrapping
 - Data pre processing
 - Data analyses
+  - EDA
+  - Submission Based
+  - User Based
+  - Content Based (Toxicicy & Sentiment)
+  - Descriptive
 - Clutter score calculation
 - Change point detection
+- Platform research
